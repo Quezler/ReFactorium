@@ -1,7 +1,7 @@
 {
         "name": "Tsunami",
         "description": "Advanced liquid turret with enormous range",
-        "type": "LiquidTurret"
+        "type": "LiquidTurret",
         "ammo": {
 		"water": "standartWater",
 		"oil": "standartOil",
