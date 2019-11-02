@@ -3,11 +3,11 @@
         "description": "Advanced liquid turret with enormous range",
         "type": "LiquidTurret"
         "ammo": {
-		"water",
-		"oil",
-		"cryofluid",
-		"slag"
-	}
+		"water": "standartWater",
+		"oil": "standartOil",
+		"cryofluid": "standartCryofluid",
+		"slag": "standartSlag"
+		},
         "size": 5,
         "recoil": 0.0,
         "reload": 2.0,
