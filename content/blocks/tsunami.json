@@ -2,7 +2,6 @@
         "name": "Tsunami",
         "description": "Advanced liquid turret with enormous range",
         "type": "LiquidTurret",
-        "ammo": "water",
         "size": 5,
         "recoil": 0.0,
         "reload": 2.0,
