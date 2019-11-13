@@ -2,6 +2,6 @@
         "requirements": [
 	        { "item": "scrap", "amount": 64 }
 	],
-	"buildVisibility": "shown"
+	"buildVisibility": "shown",
 	"alwaysUnlocked": true
 }
