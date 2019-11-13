@@ -1,6 +1,6 @@
 {
         "name": "Condensator",
-        "description": "Machine that condensate water from air",
+        "description": "Condensate water from air",
         "type": "SolidPump",
         "size": 4,
         "health": 100,
