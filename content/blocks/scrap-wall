@@ -1,3 +1,5 @@
 {
-        "buildVisibility": "Any"
+        "requirements": [
+		{ "item": "scrap", "amount": 6 }
+	]
 }
