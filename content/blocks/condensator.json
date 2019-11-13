@@ -3,8 +3,15 @@
         "description": "Machine that condensate water from air",
         "type": "SolidPump",
         "size": 4,
+        "health": 100,
         "result": "water",
         "hasPower": "false",
         "pumpAmount": 0.1,
-        "liquidCapacity": 50
+        "liquidCapacity": 50,
+        "category": "production",
+        "requirements": [
+		{ "item": "scrap", "amount": 64 },
+		{ "item": "metaglass", "amount": 64 }
+	],
+        "alwaysUnlocked": true
 }
