@@ -11,7 +11,7 @@
 	"rotateSpeed": 0.0,
         "category": "production",
 	"consumes": {
-		"power": 1.0
+		"power": 0.00001
 	},
         "requirements": [
 		{ "item": "scrap", "amount": 64 },
