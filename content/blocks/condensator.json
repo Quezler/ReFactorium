@@ -3,7 +3,7 @@
         "description": "Slowly condensates water from air",
         "type": "SolidPump",
         "size": 4,
-        "health": 640,
+        "health": 128,
         "hasPower": false,
         "pumpAmount": 0.1,
 	"result": "water",
