@@ -1,6 +1,6 @@
 {
         "name": "Condensator",
-        "description": "Slowly condensates water from air",
+        "description": "Slowly condensates water from atmosphere",
         "type": "SolidPump",
         "size": 4,
         "health": 128,
