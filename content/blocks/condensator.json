@@ -1,1 +1,10 @@
-
+{
+        "name": "Condensator",
+        "description": "Machine that condensate water from air",
+        "type": "SolidPump",
+        "size": 4,
+        "result": "water",
+        "hasPower": "false",
+        "pumpAmount": 0.1,
+        "liquidCapacity": 50
+}
