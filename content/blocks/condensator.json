@@ -6,12 +6,14 @@
         "health": 640,
         "hasPower": false,
         "pumpAmount": 0.1,
+	"result": "water",
         "liquidCapacity": 64,
 	"rotateSpeed": 0.0,
         "category": "production",
         "requirements": [
 		{ "item": "scrap", "amount": 64 },
-		{ "item": "metaglass", "amount": 64 }
+		{ "item": "metaglass", "amount": 16 }
 	],
         "alwaysUnlocked": true
+	"buildVisibility": "hidden"
 }
