@@ -1,5 +1,5 @@
 {
         "requirements": [
-		{ "item": "scrap", "amount": 6 }
+		{ "item": "scrap", "amount": 4 }
 	]
 }
