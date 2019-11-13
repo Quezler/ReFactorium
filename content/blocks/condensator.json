@@ -8,7 +8,7 @@
         "hasPower": "false",
         "pumpAmount": 0.1,
 	"attribute": "water",
-        "liquidCapacity": 50,
+        "liquidCapacity": 64,
         "category": "production",
         "requirements": [
 		{ "item": "scrap", "amount": 64 },
