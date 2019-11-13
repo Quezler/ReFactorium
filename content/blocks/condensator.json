@@ -1,5 +1,5 @@
 {
-        "name": "Condensator",
+        "name": "Condenser",
         "description": "Slowly condensates water from the atmosphere.",
         "type": "SolidPump",
         "size": 4,
