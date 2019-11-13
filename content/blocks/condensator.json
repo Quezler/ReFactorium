@@ -7,7 +7,6 @@
         "result": "water",
         "hasPower": false,
         "pumpAmount": 0.1,
-	"attribute": "water",
         "liquidCapacity": 64,
 	"rotateSpeed": 0.0,
         "category": "production",
