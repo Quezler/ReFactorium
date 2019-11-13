@@ -3,4 +3,5 @@
 	        { "item": "scrap", "amount": 64 }
 	],
 	"buildVisibility": "shown"
+	"alwaysUnlocked": true
 }
