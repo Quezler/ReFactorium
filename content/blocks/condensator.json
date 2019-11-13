@@ -1,12 +1,13 @@
 {
         "name": "Condensator",
         "description": "Condensate water from air",
-        "type": "Pump",
+        "type": "SolidPump",
         "size": 4,
         "health": 640,
         "result": "water",
         "hasPower": "false",
         "pumpAmount": 0.2,
+	"attribute": "water",
         "liquidCapacity": 50,
         "category": "production",
         "requirements": [
