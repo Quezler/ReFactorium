@@ -6,7 +6,7 @@
         "health": 640,
         "result": "water",
         "hasPower": "false",
-        "pumpAmount": 0.2,
+        "pumpAmount": 0.1,
 	"attribute": "water",
         "liquidCapacity": 50,
         "category": "production",
