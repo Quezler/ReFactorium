@@ -11,7 +11,7 @@
 	"rotateSpeed": 0.0,
         "category": "production",
 	"consumes": {
-		"power": 0.0
+		"power": -0.000001
 	},
         "requirements": [
 		{ "item": "copper", "amount": 128}
