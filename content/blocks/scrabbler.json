@@ -1,0 +1,15 @@
+{
+        "name": "Scrabbler",
+        "description": "Small drill made out of scrap",
+        "type": "Drill",
+        "size": 1,
+        "health": 16,
+		"tier": 1,
+		"drillTime": 600,
+		"requirements": [
+			{ "item": "scrap", "amount": 4}
+		],
+		"liquidBoostIntensity": 1.0,
+        "alwaysUnlocked": true,
+		"category": "production"
+}
