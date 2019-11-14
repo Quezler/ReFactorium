@@ -15,6 +15,7 @@
 	},
         "requirements": [
 		{ "item": "copper", "amount": 128},
+		{ "item": "lead", "amount": 64},
 		{ "item": "metaglass", "amount": 32 }
 	],
         "alwaysUnlocked": true,
