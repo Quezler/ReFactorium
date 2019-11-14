@@ -1,5 +1,9 @@
 # ReFactorium
-Mindustry Mod. 
+Mindustry Mod.
+# Current additions
+## Scrap
+* Now it's more usefull - you can put it in the core and build walls with it.
+* Condenser - simple free water source.
 # Versions
 ## V0.1 - "Scrap Update"
 * Scrap is a material now (it can be stored it the core)
