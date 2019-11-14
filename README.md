@@ -3,7 +3,7 @@ Mindustry Mod.
 # Current additions
 ## Scrap
 * Now it's more usefull - you can put it in the core and build walls with it.
-##Condenser
+## Condenser
 * Simple free water source.
 # Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these)
