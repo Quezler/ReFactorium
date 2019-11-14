@@ -4,7 +4,12 @@ Mindustry Mod.
 ## Scrap
 * Now it's more usefull - you can put it in the core and build walls with it.
 ##Condenser
-* simple free water source.
+* Simple free water source.
+# Known Issues
+* Condenser requires power (single solar panel is enough for any amount of these)
+# TODO
+* Sand Sieve - new way to get scrap
+* Shredder - small turret that acts like a shotgun and uses scrap
 # Versions
 ## V0.1 - "Scrap Update"
 * Scrap is a material now (it can be stored it the core)
