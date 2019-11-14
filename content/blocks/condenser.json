@@ -14,8 +14,7 @@
 		"power": -0.1
 	},
         "requirements": [
-		{ "item": "copper", "amount": 128}
-		{ "item": "scrap", "amount": 64 },
+		{ "item": "copper", "amount": 128},
 		{ "item": "metaglass", "amount": 32 }
 	],
         "alwaysUnlocked": true,
