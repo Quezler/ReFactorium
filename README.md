@@ -6,7 +6,7 @@ Mindustry Mod.
 ## Condenser
 * Simple free water source.
 # Known Issues
-* Condenser requires power (single solar panel is enough for any amount of these)
+* Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself
 # TODO
 * Sand Sieve - new way to get scrap
 * Shredder - small turret that acts like a shotgun and uses scrap
