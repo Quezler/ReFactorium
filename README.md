@@ -5,7 +5,7 @@ Mindustry Mod.
 * Now it's more usefull - you can put it in the core and build walls with it.
 #### Condenser
 * Simple free water source.
-#### Scrabber
+#### Scrabbler
 * Small drill made of scrap.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
