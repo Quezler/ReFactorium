@@ -1,0 +1,24 @@
+{
+        "name": "Sieve",
+        "description": "Filters sand and outputs scrap",
+        "type": "GenericCrafter",
+        "size": 1,
+        "health": 32,
+		"craftTime": 60,
+        "hasPower": false,
+		"outputItem": {"item": "scrap", "amount": 1},
+		"hasLiquids": false,
+		"hasItems": true,
+        "category": "crafting",
+		"consumes": {
+			"items": {
+				"items": [
+					{ "item": "sand", "amount": 4 }
+				]
+			}
+		}
+        "requirements": [
+			{ "item": "copper", "amount": 32 }
+		],
+        "alwaysUnlocked": true,
+}
