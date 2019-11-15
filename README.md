@@ -2,16 +2,17 @@
 Mindustry Mod.
 ## Current additions
 #### Scrap
-* Now it's more usefull - you can put it in the core and build walls with it.
+* Now it's more useful - you can put it in the core and build walls with it.
 #### Condenser
 * Simple free water source.
 #### Scrabbler
-* Small drill made of scrap.
+* Small drill made out of scrap.
+#### Shredder
+* Small turret made out of scrap.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
 ## TODO
 * Sand Sieve - new way to get scrap.
-* Shredder - small turret that acts like a shotgun and uses scrap.
 * Thorns made of scrap that damage enemies walking on them.
 ## Versions
 ### V0.1 - "Scrap Update"
