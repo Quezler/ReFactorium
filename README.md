@@ -25,3 +25,7 @@ Mindustry Mod.
 * Changed actual power usage from 0.0001 to 0.0.
 ### V0.2 - "Scrabbling and fighting"
 * Added scrabbler.
+#### V0.2.1
+* Added shredder.
+* Increased condenser output from 3 to 6 water/sec.
+* Reduced cost of condencer.
