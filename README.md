@@ -9,10 +9,11 @@ Mindustry Mod.
 * Small drill made out of scrap.
 #### Shredder
 * Small turret made out of scrap. Consumes scrap.
+#### Sieve
+* Processes sand and outputs scrap.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
 ## TODO
-* Sand Sieve - new way to get scrap.
 * Thorns made of scrap that damage enemies walking on them.
 * Polluted water. Can be crafted using Spores and Water. Can be obtained by pumping polluted water.
 * Filter that clears water and outputs thorium.
@@ -33,3 +34,5 @@ Mindustry Mod.
 * Added shredder.
 * Increased condenser output from 3 to 6 water/sec.
 * Reduced cost of condencer.
+#### V0.2.2
+* Added sieve.
