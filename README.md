@@ -2,13 +2,13 @@
 Mindustry Mod.
 ## Current additions
 #### Scrap
-* Now it's more useful - you can put it in the core and build walls with it.
+* Now it's more useful - you can put it in the core and build walls and other buildings with it.
 #### Condenser
 * Simple free water source.
 #### Scrabbler
 * Small drill made out of scrap.
 #### Shredder
-* Small turret made out of scrap.
+* Small turret made out of scrap. Consumes scrap.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
 ## TODO
