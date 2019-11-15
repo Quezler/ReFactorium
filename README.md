@@ -36,3 +36,4 @@ Mindustry Mod.
 * Reduced cost of condencer.
 #### V0.2.2
 * Added sieve.
+* Fixed textures being slightly bigger than needed.
