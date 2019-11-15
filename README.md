@@ -14,6 +14,8 @@ Mindustry Mod.
 ## TODO
 * Sand Sieve - new way to get scrap.
 * Thorns made of scrap that damage enemies walking on them.
+* Polluted water. Can be crafted using Spores and Water. Can be obtained by pumping polluted water.
+* Filter that clears water and outputs thorium.
 ## Versions
 ### V0.1 - "Scrap Update"
 * Scrap is a material now (it can be stored it the core).
