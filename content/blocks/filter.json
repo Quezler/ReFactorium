@@ -1,0 +1,34 @@
+{
+        "name": "Filter",
+        "description": "Filters polluted water and extracts thorium from it",
+        "type": "GenericCrafter",
+        "size": 3,
+        "health": 64,
+		"craftTime": 60,
+        "hasPower": true,
+		"outputItem": {"item": "thorium", "amount": 1},
+		"outputLiquid": {"liquid": "water", "amount": 90.0},
+		"hasLiquids": true,
+		"hasItems": true,
+        "category": "crafting",
+		"liquidCapacity": 200,
+		"consumes": {
+			"power": 0.5,
+			"items": {
+				"items": [
+					{ "item": "coal", "amount": 1 }
+				]
+			},
+			"liquid": {
+				"liquid": "polluted-water",
+				"amount": 1.5
+			}
+		}
+        "requirements": [
+			{ "item": "copper", "amount": 128 },
+			{ "item": "lead", "amount": 128 },
+			{ "item": "graphite", "amount": 64 },
+			{ "item": "metaglass", "amount": 64 },
+		],
+        "alwaysUnlocked": true,
+}
