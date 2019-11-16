@@ -37,3 +37,8 @@ Mindustry Mod.
 #### V0.2.2
 * Added sieve.
 * Fixed textures being slightly bigger than needed.
+### V0.3 - "Thorium update"
+* Added polluted water
+* Filter - cleans polluted water and outputs thorium
+* Tainter - taints water using spore pods
+* Textures update
