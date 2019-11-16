@@ -1,6 +1,6 @@
 # ReFactorium
 Mindustry Mod.
-## Additions (check out Info)
+## Additions (check out info folder)
 #### Scrap
 * Now it's more useful - you can put it in the core and build walls and other buildings with it.
 #### Condenser
