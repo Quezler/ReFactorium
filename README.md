@@ -11,12 +11,13 @@ Mindustry Mod.
 * Small turret made out of scrap. Consumes scrap.
 #### Sieve
 * Processes sand and outputs scrap.
+#### Filter
+* Cleans polluted water and outputs thorium.
+#### Tainter
+* Taints water using spore pods.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
 ## TODO
-* Thorns made of scrap that damage enemies walking on them.
-* Polluted water. Can be crafted using Spores and Water. Can be obtained by pumping polluted water.
-* Filter that clears water and outputs thorium.
 * Bottles that can be filled with liquids and emptied later.
 ## Versions
 ### V0.1 - "Scrap Update"
@@ -38,7 +39,7 @@ Mindustry Mod.
 * Added sieve.
 * Fixed textures being slightly bigger than needed.
 ### V0.3 - "Thorium update"
-* Added polluted water
-* Filter - cleans polluted water and outputs thorium
-* Tainter - taints water using spore pods
-* Textures update
+* Added polluted water.
+* Added Filter.
+* Added Tainter.
+* Textures update.
