@@ -4,11 +4,11 @@ Mindustry Mod.
 #### Scrap
 * Now it's more useful - you can put it in the core and build walls and other buildings with it.
 #### Condenser
-* Simple free water source.
+* Simple energy-free water source.
 #### Scrabbler
 * Small drill made out of scrap.
 #### Shredder
-* Small turret made out of scrap. Consumes scrap.
+* Small turret made out of scrap. Immersive firerate and inaccuracy.
 #### Sieve
 * Processes sand and outputs scrap.
 #### Filter
