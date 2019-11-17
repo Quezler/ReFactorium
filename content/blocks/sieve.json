@@ -1,6 +1,6 @@
 {
         "name": "Sieve",
-        "description": "Filters sand and outputs scrap",
+        "description": "Filters sand and outputs scrap.",
         "type": "GenericCrafter",
         "size": 1,
         "health": 32,
