@@ -1,6 +1,6 @@
 {
         "name": "Shredder",
-        "description": "Small turret made out of scrap",
+        "description": "Small turret made out of scrap.",
         "type": "ItemTurret",
         "size": 1,
         "health": 128,
