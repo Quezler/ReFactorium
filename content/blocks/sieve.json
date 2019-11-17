@@ -10,13 +10,13 @@
 		"hasLiquids": false,
 		"hasItems": true,
         "category": "crafting",
-		"consumes": {
-			"items": {
-				"items": [
-					{ "item": "sand", "amount": 4 }
-				]
-			}
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 4 }
+			]
 		}
+	}
         "requirements": [
 			{ "item": "copper", "amount": 32 }
 		],
