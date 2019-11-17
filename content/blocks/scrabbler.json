@@ -1,6 +1,6 @@
 {
         "name": "Scrabbler",
-        "description": "Small drill made out of scrap",
+        "description": "Small drill made out of scrap.",
         "type": "Drill",
         "size": 1,
         "health": 16,
