@@ -1,6 +1,6 @@
 {
         "name": "Filter",
-        "description": "Filters polluted water and extracts thorium from it",
+        "description": "Filters polluted water and extracts thorium from it.",
         "type": "GenericCrafter",
         "size": 3,
         "health": 64,
