@@ -1,6 +1,6 @@
 {
         "name": "Tainter",
-        "description": "Taints water with spore pods",
+        "description": "Taints water with spore pods.",
         "type": "GenericCrafter",
         "size": 1,
         "health": 32,
@@ -10,22 +10,22 @@
 		"hasLiquids": true,
 		"hasItems": true,
         "category": "crafting",
-		"liquidCapacity": 60,
-		"consumes": {
-			"items": {
-				"items": [
-					{ "item": "spore-pod", "amount": 1 }
-				]
-			},
-			"liquid": {
-				"liquid": "water",
-				"amount": 0.1
-			}
+	"liquidCapacity": 60,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "spore-pod", "amount": 1 }
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.1
 		}
+	},
         "requirements": [
 			{ "item": "copper", "amount": 32 },
 			{ "item": "lead", "amount": 32 },
 			{ "item": "metaglass", "amount": 16 },
 		],
-        "alwaysUnlocked": true,
+        "alwaysUnlocked": true
 }
