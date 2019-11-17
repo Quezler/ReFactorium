@@ -16,9 +16,9 @@
 				{ "item": "sand", "amount": 4 }
 			]
 		}
-	}
+	},
         "requirements": [
 			{ "item": "copper", "amount": 32 }
 		],
-        "alwaysUnlocked": true,
+        "alwaysUnlocked": true
 }
