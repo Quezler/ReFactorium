@@ -43,3 +43,6 @@ Mindustry Mod.
 * Added Filter.
 * Added Tainter.
 * Textures update.
+#### V0.3.1
+* Fixing and balancing.
+* Coal can now be used in Shredder as igniting ammo.
