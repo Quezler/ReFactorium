@@ -17,8 +17,9 @@ Mindustry Mod.
 * Taints water using spore pods.
 ## Known Issues
 * Condenser requires power (single solar panel is enough for any amount of these). Cannot be fixed currently due to game itself.
+* Condenser sprites don't work as needed.
 ## TODO
-* Bottles that can be filled with liquids and emptied later.
+* IDK
 ## Versions
 ### V0.1 - "Scrap Update"
 * Scrap is a material now (it can be stored it the core).
