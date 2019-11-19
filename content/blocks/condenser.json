@@ -5,18 +5,18 @@
         "size": 4,
         "health": 128,
         "hasPower": true,
-        "pumpAmount": 0.11,
-	"result": "water",
+        "pumpAmount": 0.13,
+		"result": "water",
         "liquidCapacity": 128.0,
-	"rotateSpeed": 0.0,
+		"rotateSpeed": 0.0,
         "category": "production",
-	"consumes": {
-		"power": 0.0
-	},
+		"consumes": {
+			"power": 0.0
+		},
         "requirements": [
-		{ "item": "copper", "amount": 64 },
-		{ "item": "lead", "amount": 32 },
-		{ "item": "metaglass", "amount": 16 }
-	],
-        "alwaysUnlocked": true,
+			{ "item": "copper", "amount": 64 },
+			{ "item": "lead", "amount": 32 },
+			{ "item": "metaglass", "amount": 16 }
+		],
+        "alwaysUnlocked": true
 }
